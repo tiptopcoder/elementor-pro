@@ -1,0 +1,16 @@
+{
+  "name": "tiptopcoder/elementor-pro",
+  "description": "Elementor Pro mirror for those using composer to manage Wordpress dependencies",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Elementor.com",
+      "homepage": "https://elementor.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.4"
+  }
+}
